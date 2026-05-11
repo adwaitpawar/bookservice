@@ -1,4 +1,4 @@
-package bookservice.service;
+package bookservice;
 
 import java.util.*;
 import org.apache.commons.csv.*;
